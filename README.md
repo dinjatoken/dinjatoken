@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**dinjatoken/dinjatoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.dinjatoken.com/
 
-Here are some ideas to get you started:
+DOGE NINJA SAMURAI (DINJA) is the newest ERC-20 token with new first-of-a-kind tokenomics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It has anti-dump mechanisms where sell tax is proportional to price impact of the sell.
+
+10% of all taxes collected are reflected back to loyal HODLers. 
+
+We also have 1% tax reduction after every 400 transactions. 
+So over time this transaction taxes will reduce to 1%
+
+We have a lot of utilities to reveal at specific points in our roadmap.
+
+Next 100M token right here
